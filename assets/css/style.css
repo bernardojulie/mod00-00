@@ -9,7 +9,7 @@ body {
 }
 
 #main-section {
-	background-color: red;
+	background-color: coral;
 }
 
 section#main-section > a{
@@ -23,7 +23,7 @@ a[href="https://github.com/bernardojulie"]{
 	position: absolute;
 	top: 0;
 	right: 0;
-	
+
 }
 
 .about {
@@ -34,6 +34,10 @@ a[href="https://github.com/bernardojulie"]{
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
+}
+
+.bio {
+	font-size: 25px;
 }
 
 .my-picture {
@@ -57,15 +61,15 @@ h1{
 }
 
 #portfolio-section {
-	background-color: blue;
+	background-color: dimgray;
 }
 
 #skills-section {
-	background-color: cyan;
+	background-color: lightpink;
 }
 
 #about-section {
-	background-color: yellow;
+	background-color: seagreen;
 }
 
 
